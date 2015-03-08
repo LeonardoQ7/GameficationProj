@@ -1,3 +1,3 @@
 # GameficationProj
 Compartilhamento de código para o pré-projeto sobre gameficação.
-Testando alteracao
+Informações serão adicionadas em breve.
